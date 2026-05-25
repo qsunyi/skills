@@ -82,6 +82,6 @@ python scripts/init_index.py "/path/to/Music_无损" "/path/to/Music_mp3"
 
 ## 发布状态
 
-当前版本：`0.1.2`
+当前版本：`0.1.3`
 
 作者：`Roy <qsunyi@qq.com>`

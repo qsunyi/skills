@@ -1,22 +1,22 @@
 # skills
 
-A public repository for reusable AI agent skills.
+一个用于公开发布可复用 AI Agent Skills 的仓库。
 
-This repository is used to publish standalone skills that are developed locally and then synchronized here for reuse, versioning, and sharing.
+这个仓库用于承载那些先在本地开发、测试，再同步到 GitHub 上进行复用、版本管理和分享的 skills。
 
-## Repository structure
+## 仓库结构
 
-Each top-level directory in this repository represents one skill.
+仓库中的每个顶层目录代表一个独立 skill。
 
-Current published skills:
+当前已发布的 skill：
 
-- [`music-shelf/`](./music-shelf/) — a skill for organizing and maintaining local music libraries, with a focus on archival workflows, normalization, de-duplication, and incremental maintenance.
+- [`music-shelf/`](./music-shelf/)：一个用于整理和长期维护本地音乐库的 skill，重点覆盖归档流程、规范化、去重和增量维护。
 
-## Publishing model
+## 发布模型
 
-Day-to-day development may happen in a separate local development source tree. Publish-ready files are synchronized into this repository and then committed here.
+日常开发可以发生在独立的本地开发源目录中。准备公开的内容会同步到这个仓库，然后在这里提交和发布。
 
-## Notes
+## 说明
 
-- Treat this repository as the public distribution surface.
-- Review skill-specific `README.md`, `SKILL.md`, and related references inside each skill directory for details.
+- 把这个仓库视为公开分发面。
+- 具体 skill 的使用方式、规则和参考资料，请查看各自目录中的 `README.md`、`SKILL.md` 和相关文件。

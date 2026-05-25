@@ -11,6 +11,8 @@
 当前已发布的 skill：
 
 - [`music-shelf/`](./music-shelf/)：一个用于整理和长期维护本地音乐库的 skill，重点覆盖归档流程、规范化、去重和增量维护。
+- [`relay/`](./relay/)：一个用于生成、更新和维护会话 / 项目交接文档的 skill，重点覆盖 handoff、续跑说明、/compact 前整理与 Relay Mesh 接力。
+- [`ledger/`](./ledger/)：一个用于创建、记录、跟踪和更新任务清单与任务状态台账的 skill，重点覆盖 todo list、todo item、优先级、阻塞项和执行推进。
 
 ## 发布模型
 

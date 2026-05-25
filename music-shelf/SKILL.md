@@ -2,9 +2,8 @@
 name: music-shelf
 author: Roy <qsunyi@qq.com>
 description: 整理、归档、规范化并长期维护本地音乐库的技能。只要用户提到整理音乐库、music library organization、归档无损/MP3、补专辑年份、压平嵌套目录、繁体转简体、乱码文件名修复、混装盘拆分、去重、增量维护、SQLite 索引、Music_无损、Music_mp3、album-first filing、flatten nested folders、normalize album names，就应优先使用此技能，即使用户没有明确说“skill”或“音乐库整理器”。
+version: 0.1.3
 compatibility: []
-metadata:
-  version: 0.1.3
 ---
 
 # MusicShelf
